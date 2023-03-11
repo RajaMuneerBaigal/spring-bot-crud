@@ -2,7 +2,7 @@
 
 ## Download
 
-`git clone https://github.com/maheshkareeya/spring-boot-react-mongodb-crud.git`
+`git clone https://github.com/RajaMuneerBaigal/spring-bot-crud.git`
 `cd spring-boot-mongodb-react-crud`
 
 ## Open Terminal
